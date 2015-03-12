@@ -1,6 +1,5 @@
 package it.redhat.playground.application;
 
-import it.redhat.playground.service.TwService;
 
 import javax.annotation.Resource;
 import javax.ws.rs.core.Application;
